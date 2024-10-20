@@ -29,7 +29,7 @@ Of course, you don't have to recreate the executable if you don't want to; you c
   
 ## Screenshots  
 __The executable file__  
-![image](https://github.com/user-attachments/assets/c0be94fe-ab2f-481a-8ef1-fb4301e54248)  
+![image](https://github.com/user-attachments/assets/d4859b9b-8b64-440c-84e9-7481e754d88d)  
 Simply double-click the executable to launch the user interface. You can click-and-drag it to wherever you'd like on your screen.
 
 __The graphical user interface__  
