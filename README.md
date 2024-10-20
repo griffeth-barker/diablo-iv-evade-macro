@@ -1,5 +1,5 @@
 # Diablo IV Evade Macro  
-A Windows-native macro with a simple graphical user interface to send spacebar keystrokes to the "Diablo IV" game window when it is active.  
+A Windows-native macro with a simple graphical user interface to send rapid spacebar keystrokes to the "Diablo IV" game window when it is active.  
   
 ## Disclaimers  
   - You should always understand any code/script before running it! Use at your own risk.  
