@@ -16,6 +16,9 @@ I realized that there's no reason I couldn't try building this in PowerShell, an
 I used the PS2EXE PowerShell module to wrap the script as an executable with an icon and some metadata.
 
 ```PowerShell
+# Before wrapping the script as an executable, use PSScriptAnalyzer for a quick check
+Invoke-ScriptAnalyzer -Path .\sendSpace.ps1 -IncludeDefaultRules
+
 # Install the PS2EXE module
 Install-Module -Name 'PS2EXE' -Force -Confirm:$false
 
