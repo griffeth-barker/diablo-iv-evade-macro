@@ -25,7 +25,7 @@ Import-Module -Name 'PS2EXE' -Force
 Invoke-PS2EXE .\sendSpace.ps1 '.\Diablo IV Evade Macro.exe' -noConsole -iconFile 'C:\path\to\your\icon\file' -title 'Diablo IV Evade Macro' -description 'A macro to send spacebar keystrokes to the Diablo IV game window when it is active.' -version '0.1' -company 'your name'
 ```
 
-Of course, you don't have to recreate the executable if you don't want to; you can simply download the prebuilt executable from releases.  
+Of course, you don't have to recreate the executable if you don't want to; you can simply download the [latest prebuilt executable from releases](https://github.com/griffeth-barker/Diablo-IV-Evade-Macro/releases).  
   
 ## Screenshots  
 __The executable file__  
