@@ -2,10 +2,11 @@
 A Windows-native macro with a simple graphical user interface to send spacebar keystrokes to the "Diablo IV" game window when it is active.  
   
 ## Disclaimers  
-  - This script and executabl are provided "as is" without warranty of any kind. Use at your own risk.  
-  - This is neither sponsored nor endorsed by Blizzard Entertainment.  
+  - You should always understand any code/script before running it! Use at your own risk.  
+  - This is neither sponsored nor endorsed nor affiliated with/by Blizzard Entertainment or any parties affliated with the Diablo IV.  
   - Consider this an educational project; please ensure you abide by the terms of service for the game you are using this script with.  
-  - This script by default uses an external icon from the internet (check out icon-icons.com); I suggest updating this with your own icon to avoid external dependencies.  
+  - The script by default uses an external icon from the internet (check out icon-icons.com); I suggest updating this with your own icon to avoid external dependencies.
+  - This repository and its contents are provided as-is and without any kind of warranty.
   
 ## Summary  
 I'm always looking for a fun challenge with PowerShell and while playing a favorite game of ours (Diablo IV), my buddy and I were talking about how some people use Logitech G-Hub or other software to automate keypresses for the dodging required in certain class builds.  
