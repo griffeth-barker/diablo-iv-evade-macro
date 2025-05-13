@@ -12,7 +12,7 @@
   Run the script in PowerShell to display the macro UI. Click "Start Macro" to begin sending spacebar keystrokes, and "Stop Macro" to cease sending.
 
 .NOTES
-  Author      : Griffeth Barker (barkergriffeth@gmail.com)
+  Author      : Griffeth Barker (github@griff.systems)
   Date        : 2024-10-19
   Version     : 0.3
   Last Change : Converted script from using PowerShell background jobs to using .NET Windows forms timers.
